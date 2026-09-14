@@ -1,0 +1,16 @@
+{
+  "name": "Weidlich Malermeister GmbH",
+  "short_name": "MalerWeidlich",
+  "description": "Ihr Malerfachbetrieb & Showroom seit 1921 in Augsburg. Hochwertige Malerarbeiten, Lackierungen und exklusive Oberflächen.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f6f0",
+  "theme_color": "#be7b17",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
